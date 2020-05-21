@@ -1,5 +1,7 @@
 # howtheytest-jp
 
+![](./banner.png)
+
 ## はじめに
 
 ## コンテンツ
