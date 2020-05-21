@@ -1,8 +1,8 @@
 # [howtheytest-jp](https://tadashi0713.github.io/howtheytest-jp/)
 
-![](./banner.png)
+![](https://github.com/tadashi0713/howtheytest-jp/blob/master/banner.png?raw=true)
 
-## はじめに
+[howtheytest](https://github.com/abhivaikar/howtheytest) を参考に、日本のソフトウェア企業のテスト・テスト自動化に関する資料をまとめています。
 
 ## コンテンツ
 
