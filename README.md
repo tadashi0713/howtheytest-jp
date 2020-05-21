@@ -1,4 +1,4 @@
-# howtheytest-jp
+# [howtheytest-jp](https://tadashi0713.github.io/howtheytest-jp/)
 
 ![](./banner.png)
 
@@ -9,6 +9,7 @@
 ### メルカリ
 
 ##### ブログ・記事
+
 * [Webの自動テストのこの１年を振り返って](https://tech.mercari.com/entry/2019/12/23/170258)
 * [Windows10 / Microsoft Edge での自動テスト(Selenium WebDriver)を Azure DevTest Labs 上で実行して高速化したお話](https://tech.mercari.com/entry/2019/08/27/080000)
 * [メルカリWeb版のUIテスト自動化で目指している世界と、そのために作った Selenium Grid・Zalenium 環境 on Azure Kubernetes Service(AKS)](https://tech.mercari.com/entry/2019/04/16/060000)
@@ -20,6 +21,7 @@
 
 ## コントリビューション
 
+* [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
 * 日本語のリソースを想定しています。英語のリソースは [本家の howtheytest](https://github.com/abhivaikar/howtheytest) にコントリビューションすることをおすすめします。
 * This repository mainly focus on resources by Japanese language. Please consider contributing to [howtheytest](https://github.com/abhivaikar/howtheytest) if you have English resources.
 * 基本的には `README.md` のマークダウンファイルを編集します。下記のルールを参考にしてください。
@@ -40,7 +42,11 @@
 * [○○のテスト](https://example.jp)
 ```
 
-* サイトジェネレーターには
+## クレジット
+
+* [howtheytest](https://github.com/abhivaikar/howtheytest) を参考にしました。
+* バナーには [unDraw](https://undraw.co/) を活用しました。
 
 ## ライセンス
+
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
