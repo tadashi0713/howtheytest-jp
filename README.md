@@ -19,9 +19,7 @@
 ## コントリビューション
 
 * 日本語のリソースを想定しています。英語のリソースは [本家の howtheytest](https://github.com/abhivaikar/howtheytest) にコントリビューションすることをおすすめします。
-
 * This repository mainly focus on resources by Japanese language. Please consider contributing to [howtheytest](https://github.com/abhivaikar/howtheytest) if you have English resources.
-
 * 基本的には `README.md` のマークダウンファイルを編集します。下記のルールを参考にしてください。
 
 ```
@@ -43,4 +41,4 @@
 * サイトジェネレーターには
 
 ## ライセンス
-
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
