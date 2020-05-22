@@ -1,6 +1,6 @@
 # [howtheytest-jp](https://tadashi0713.github.io/howtheytest-jp/)
 
-![](https://github.com/tadashi0713/howtheytest-jp/blob/master/banner.png?raw=true)
+![banner](https://github.com/tadashi0713/howtheytest-jp/blob/master/banner.png?raw=true)
 
 [howtheytest](https://github.com/abhivaikar/howtheytest) を参考に、日本のソフトウェア企業のテスト・テスト自動化に関する資料をまとめています。
 
@@ -8,7 +8,7 @@
 
 ### クックパッド
 
-##### ブログ・記事
+#### ブログ・記事
 
 * [テストケース作成を仕様詳細化の手段とする実験](https://techlife.cookpad.com/entry/2020/03/16/130646)
 * [クックパッド Android アプリ CI を CodeBuild に切り替えた話](https://techlife.cookpad.com/entry/2020/01/30/100000)
@@ -17,7 +17,7 @@
 
 ### メルカリ
 
-##### ブログ・記事
+#### ブログ・記事
 
 * [Webの自動テストのこの１年を振り返って](https://tech.mercari.com/entry/2019/12/23/170258)
 * [Windows10 / Microsoft Edge での自動テスト(Selenium WebDriver)を Azure DevTest Labs 上で実行して高速化したお話](https://tech.mercari.com/entry/2019/08/27/080000)
@@ -35,19 +35,19 @@
 * This repository mainly focus on resources by Japanese language. Please consider contributing to [howtheytest](https://github.com/abhivaikar/howtheytest) if you have English resources.
 * 基本的には `README.md` のマークダウンファイルを編集します。下記のルールを参考にしてください。
 
-```
+```markdown
 ### 株式会社○○
 
-##### ブログ・記事
+#### ブログ・記事
 * [○○のテスト](https://example.jp)
 
-##### スライド
+#### スライド
 * [○○のテスト](https://example.jp)
 
-##### 動画
+#### 動画
 * [○○のテスト](https://example.jp)
 
-##### その他
+#### その他
 * [○○のテスト](https://example.jp)
 ```
 
