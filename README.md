@@ -45,6 +45,7 @@
 ## クレジット
 
 * [howtheytest](https://github.com/abhivaikar/howtheytest) を参考にしました。
+* ページ作成には [docup](https://github.com/egoist/docup) を活用しました。
 * バナーには [unDraw](https://undraw.co/) を活用しました。
 
 ## ライセンス
