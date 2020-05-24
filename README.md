@@ -105,6 +105,13 @@
 
 * [【CEDEC 2019】グリーが目指したブラックボックステストの自動化による、高品質なテストの実現と自動化部隊の育成](https://gamebiz.jp/?p=248940)
 
+### 株式会社Cygames
+
+#### ブログ・記事
+
+* [【CEDEC 2019 フォローアップ】Shadowverse流開発手法 ～QAコスト削減と堅牢性強化を実現するプランナーによるテスト駆動開発～](https://tech.cygames.co.jp/archives/3304/)
+* [【JaSST’17 Tokyo フォローアップ】受け入れテストの自動化](https://tech.cygames.co.jp/archives/2983/)
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
