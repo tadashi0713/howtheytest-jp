@@ -120,6 +120,12 @@
 * [E2EテストをSelenium Webdriver からCypress.io に移行した話](https://user-first.ikyu.co.jp/entry/2019/04/23/090000)
 * [API Test ライブラリ Tavern のご紹介](https://user-first.ikyu.co.jp/entry/2019/05/07/110000)
 
+### 楽天株式会社
+
+#### スライド
+
+* [Rakuten QA Group Introduction & Best Practices](https://www.slideshare.net/YusukeNakamura/rakutenqanight1-nakamura)
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
