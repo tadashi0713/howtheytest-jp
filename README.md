@@ -5,6 +5,7 @@
 [howtheytest](https://github.com/abhivaikar/howtheytest) を参考に、日本のソフトウェア企業のテスト・テスト自動化に関する資料をまとめています。
 
 ![CI](https://github.com/tadashi0713/howtheytest-jp/workflows/CI/badge.svg)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ## コンテンツ
 
