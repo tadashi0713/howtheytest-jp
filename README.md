@@ -51,6 +51,8 @@
 
 * [テスト自動化の今と今後](https://techblog.yahoo.co.jp/bb/testautomation-becomecommon/)
 
+#### スライド
+* [Yahoo! JAPAN トップページ リニューアルとテストについて](https://www.slideshare.net/techblogyahoo/yahoo-japan-yjbonfire)
 
 ## コントリビューション
 
