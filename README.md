@@ -75,6 +75,12 @@
 
 * [いかにしてテスト文化を醸成させたか](https://speakerdeck.com/takayukihayashi/ikanisitetesutowen-hua-woniang-cheng-sasetaka-0207ccd1-8b40-4cc1-ba92-6e66c512f56b)
 
+### 株式会社エウレカ
+
+#### ブログ・記事
+
+* [PairsのQAはどう立ち上がったのか](https://medium.com/eureka-engineering/pairs%E3%81%AEqa%E3%81%AF%E3%81%A9%E3%81%86%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%8C%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B-30e3baa32d8f)
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
