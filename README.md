@@ -57,6 +57,18 @@
 
 * [Yahoo! JAPAN トップページ リニューアルとテストについて](https://www.slideshare.net/techblogyahoo/yahoo-japan-yjbonfire)
 
+### 株式会社ZOZOテクノロジーズ
+
+#### ブログ・記事
+
+* [自動テストの実行環境をDockerでお気軽引っ越し](https://techblog.zozo.com/entry/testauto_env_rebuild)
+* [ZOZOTOWN iOS にスナップショットテストを導入して開発速度を劇的に向上させた話](https://techblog.zozo.com/entry/ios_snapshottest)
+* [AI-assistedテストへの挑戦 vol.1](https://techblog.zozo.com/entry/ai-assistedtest-1)
+* [Web UIテスト自動化の実行環境をSelenium Gridで](https://techblog.zozo.com/entry/qa-webui-test-automation-01)
+* [ZOZOSUIT計測テスト、自動化への道（接触篇）](https://techblog.zozo.com/entry/auto_measurement_02)
+* [ZOZOSUIT計測テスト、自動化への道（音声認識篇）](https://techblog.zozo.com/entry/auto_measurement_01)
+* [「品質」の基準とは？](https://techblog.zozo.com/entry/quality)
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
