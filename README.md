@@ -113,6 +113,13 @@
 * [【CEDEC 2019 フォローアップ】Shadowverse流開発手法 ～QAコスト削減と堅牢性強化を実現するプランナーによるテスト駆動開発～](https://tech.cygames.co.jp/archives/3304/)
 * [【JaSST’17 Tokyo フォローアップ】受け入れテストの自動化](https://tech.cygames.co.jp/archives/2983/)
 
+### 株式会社一休
+
+#### ブログ・記事
+
+* [E2EテストをSelenium Webdriver からCypress.io に移行した話](https://user-first.ikyu.co.jp/entry/2019/04/23/090000)
+* [API Test ライブラリ Tavern のご紹介](https://user-first.ikyu.co.jp/entry/2019/05/07/110000)
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
