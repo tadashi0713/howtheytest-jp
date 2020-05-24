@@ -81,6 +81,12 @@
 
 * [PairsのQAはどう立ち上がったのか](https://medium.com/eureka-engineering/pairs%E3%81%AEqa%E3%81%AF%E3%81%A9%E3%81%86%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%8C%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B-30e3baa32d8f)
 
+### 株式会社マネーフォワード
+
+#### ブログ・記事
+
+* [GitHub Actionsのワークフローを利用してクロスブラウザのE2Eテストを自動化する](https://moneyforward.com/engineers_blog/2019/11/06/e2e-test-automation/)
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
