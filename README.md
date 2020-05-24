@@ -36,6 +36,15 @@
 * [freeeのQAの目指す姿-2/3](https://developers.freee.co.jp/entry/freee-qa-to-be-2)
 * [freeeのQAの目指す姿-3/3](https://developers.freee.co.jp/entry/freee-qa-to-be-3)
 
+### 株式会社LIFULL
+
+#### ブログ・記事
+
+* [AIを活用したテスト自動化ツールを使ってみました](https://www.lifull.blog/entry/2020/03/26/185324)
+* [ゼロから品質組織を立ち上げてきた話](https://www.lifull.blog/entry/2019/12/15/000000)
+* [Visual Testingに最適な画像差分検知ツール「Gazo-san」をOSS化しました](https://www.lifull.blog/entry/2019/12/16/110000)
+* [自動システムテストツール「Bucky」OSS化までの道のり](https://www.lifull.blog/entry/2019/05/21/170131)
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
