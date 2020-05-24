@@ -78,6 +78,8 @@
 * [○○のテスト](https://example.jp)
 ```
 
+* [markdownlint](https://github.com/DavidAnson/markdownlint) を Lint として使っています、ルールは [こちら](https://github.com/tadashi0713/howtheytest-jp/blob/master/.markdownlint.json)
+
 ## クレジット
 
 * [howtheytest](https://github.com/abhivaikar/howtheytest) を参考にしました。
