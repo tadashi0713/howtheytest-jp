@@ -45,6 +45,13 @@
 * [Visual Testingに最適な画像差分検知ツール「Gazo-san」をOSS化しました](https://www.lifull.blog/entry/2019/12/16/110000)
 * [自動システムテストツール「Bucky」OSS化までの道のり](https://www.lifull.blog/entry/2019/05/21/170131)
 
+### ヤフー株式会社
+
+#### ブログ・記事
+
+* [テスト自動化の今と今後](https://techblog.yahoo.co.jp/bb/testautomation-becomecommon/)
+
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
