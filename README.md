@@ -69,6 +69,12 @@
 * [ZOZOSUIT計測テスト、自動化への道（音声認識篇）](https://techblog.zozo.com/entry/auto_measurement_01)
 * [「品質」の基準とは？](https://techblog.zozo.com/entry/quality)
 
+### 株式会社ユーザベース
+
+#### スライド
+
+* [いかにしてテスト文化を醸成させたか](https://speakerdeck.com/takayukihayashi/ikanisitetesutowen-hua-woniang-cheng-sasetaka-0207ccd1-8b40-4cc1-ba92-6e66c512f56b)
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
