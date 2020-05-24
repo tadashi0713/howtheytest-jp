@@ -87,6 +87,12 @@
 
 * [GitHub Actionsのワークフローを利用してクロスブラウザのE2Eテストを自動化する](https://moneyforward.com/engineers_blog/2019/11/06/e2e-test-automation/)
 
+### 株式会社ディー・エヌ・エー
+
+#### ブログ・記事
+
+* [MOV Android版に対する「コード改善＋テスト導入」の取り組みの紹介](https://swet.dena.com/entry/2019/10/29/180000)
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
