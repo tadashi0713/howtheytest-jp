@@ -6,7 +6,7 @@
 
 ## コンテンツ
 
-### クックパッド
+### クックパッド株式会社
 
 #### ブログ・記事
 
@@ -15,7 +15,7 @@
 * [Android TVアプリの自動化されたテストの小話](https://techlife.cookpad.com/entry/2017/06/22/190000)
 * [Android/iOSアプリのテストの区分戦略](https://techlife.cookpad.com/entry/2016/08/13/test-size-for-mobile)
 
-### メルカリ
+### 株式会社メルカリ
 
 #### ブログ・記事
 
@@ -27,6 +27,14 @@
 * [Docker × Android エミュレータで、自動テスト(Appium)を並列化・爆速にする環境を作ったお話](https://tech.mercari.com/entry/2018/12/10/060000)
 * [Appiumの環境構築を劇的に効率化した話](https://tech.mercari.com/entry/2018/12/07/074346)
 * [メルカリiOSのUIテスト自動化をまるっとご紹介します！](https://tech.mercari.com/entry/2018/08/07/123000)
+
+### freee株式会社
+
+#### ブログ・記事
+
+* [freeeのQAの目指す姿-1/3](https://developers.freee.co.jp/entry/freee-qa-to-be-1)
+* [freeeのQAの目指す姿-2/3](https://developers.freee.co.jp/entry/freee-qa-to-be-2)
+* [freeeのQAの目指す姿-3/3](https://developers.freee.co.jp/entry/freee-qa-to-be-3)
 
 ## コントリビューション
 
