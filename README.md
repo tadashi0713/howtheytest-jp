@@ -69,6 +69,7 @@
 * [ZOZOSUIT計測テスト、自動化への道（接触篇）](https://techblog.zozo.com/entry/auto_measurement_02)
 * [ZOZOSUIT計測テスト、自動化への道（音声認識篇）](https://techblog.zozo.com/entry/auto_measurement_01)
 * [「品質」の基準とは？](https://techblog.zozo.com/entry/quality)
+* [GitHub + CircleCIでAWS Device Farmでのテストを自動化](https://techblog.zozo.com/entry/devicefarm_automation)
 
 ### 株式会社ユーザベース
 
