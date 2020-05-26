@@ -147,6 +147,12 @@
 * [ビジュアルリグレッションテストを導入した話](https://tech.medpeer.co.jp/entry/2020/04/10/160000)
 * [Nuxt利用プロダクトでIE11と仲良くするためのE2E](https://tech.medpeer.co.jp/entry/e2e-ie11)
 
+### dely株式会社
+
+#### ブログ・記事
+
+* [1px の変化も見逃さない！ビジュアルリグレッションテスト導入で快適フロントエンド開発](https://tech.dely.jp/entry/vis_reg_test)
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
