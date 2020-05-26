@@ -159,6 +159,19 @@
 
 * [クロスブラウザに対応したE2Eテスト環境の技術選定](https://tech.raksul.com/2019/07/31/%e3%82%af%e3%83%ad%e3%82%b9%e3%83%96%e3%83%a9%e3%82%a6%e3%82%b6%e3%81%ab%e5%af%be%e5%bf%9c%e3%81%97%e3%81%9fe2e%e3%83%86%e3%82%b9%e3%83%88%e7%92%b0%e5%a2%83%e3%81%ae%e6%8a%80%e8%a1%93%e9%81%b8/)
 
+### サイボウズ株式会社
+
+#### ブログ・記事
+
+* [Claraチームの開発・テストプロセスについて](https://blog.cybozu.io/entry/2020/03/26/110000)
+* [Test Everything: データセンター仮想化と自動テストの取り組み](https://blog.cybozu.io/entry/2019/07/10/100000)
+* [サイボウズサマーインターン2019 報告 〜品質保証・セキュリティコース](https://blog.cybozu.io/entry/2019/10/24/110000)
+* [OpenSTFとkintoneでモバイル端末を管理する話](https://blog.cybozu.io/entry/2018/12/20/110000)
+* [QAエンジニアのAgile Testing vol.1](https://blog.cybozu.io/entry/2018/08/29/080000)
+* [QAエンジニアのAgile Testing vol.2](https://blog.cybozu.io/entry/2018/10/01/080000)
+* [QAエンジニアのAgile Testing vol.3](https://blog.cybozu.io/entry/2018/12/14/080000)
+* [QAがテスト設計プロセスの見える化に取り組んだ話](https://blog.cybozu.io/entry/2018/08/06/080000)
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
