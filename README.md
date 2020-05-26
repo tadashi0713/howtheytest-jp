@@ -172,6 +172,12 @@
 * [QAエンジニアのAgile Testing vol.3](https://blog.cybozu.io/entry/2018/12/14/080000)
 * [QAがテスト設計プロセスの見える化に取り組んだ話](https://blog.cybozu.io/entry/2018/08/06/080000)
 
+### LINE株式会社
+
+#### ブログ・記事
+
+* [制作現場におけるビジュアルリグレッションテストの導入 – 「LINEのお年玉」4年目の挑戦](https://engineering.linecorp.com/ja/blog/visual-regression-otoshidama/)
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
