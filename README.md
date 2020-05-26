@@ -127,6 +127,13 @@
 
 * [Rakuten QA Group Introduction & Best Practices](https://www.slideshare.net/YusukeNakamura/rakutenqanight1-nakamura)
 
+### 株式会社グノシー
+
+#### ブログ・記事
+
+* [広義のQuality向上のためにQAメンバーが大事にしていること](https://tech.gunosy.io/entry/gunosy-quality)
+* [人気のテスト管理ツール「qTest」と「PractiTest」を触ってみたよ](https://tech.gunosy.io/entry/test-management-tools)
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
