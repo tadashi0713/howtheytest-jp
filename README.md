@@ -134,6 +134,12 @@
 * [広義のQuality向上のためにQAメンバーが大事にしていること](https://tech.gunosy.io/entry/gunosy-quality)
 * [人気のテスト管理ツール「qTest」と「PractiTest」を触ってみたよ](https://tech.gunosy.io/entry/test-management-tools)
 
+### Sansan株式会社
+
+#### ブログ・記事
+
+* [チームにE2Eテストの文化を広めた話](https://buildersbox.corp-sansan.com/entry/2019/04/01/110000)
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
