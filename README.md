@@ -178,6 +178,15 @@
 
 * [制作現場におけるビジュアルリグレッションテストの導入 – 「LINEのお年玉」4年目の挑戦](https://engineering.linecorp.com/ja/blog/visual-regression-otoshidama/)
 
+### 株式会社リクルートマーケティングパートナーズ
+
+#### ブログ・記事
+
+* [TestCafe で E2E テストを始めよう #1 - 概要説明 と Hello World](https://tech.recruit-mp.co.jp/front-end/post-20193/)
+* [TestCafe で E2E テストを始めよう #2 - ベーシック認証とユーザーロール（アカウント認証）](https://tech.recruit-mp.co.jp/front-end/post-20251/)
+* [TestCafe で E2E テストを始めよう #3 - よりプログラマブルな作りにする](https://tech.recruit-mp.co.jp/front-end/post-20371/)
+* [TestCafe で E2E テストを始めよう #4 - 関心の分離・メンテナブルなテストを書くためのベストプラクティス](https://tech.recruit-mp.co.jp/front-end/post-20397/)
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
