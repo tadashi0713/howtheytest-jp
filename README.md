@@ -178,6 +178,7 @@
 #### ブログ・記事
 
 * [制作現場におけるビジュアルリグレッションテストの導入 – 「LINEのお年玉」4年目の挑戦](https://engineering.linecorp.com/ja/blog/visual-regression-otoshidama/)
+* [Test Automation Workshop 2018 Tokyo](https://engineering.linecorp.com/ja/blog/test-automation-workshop-2018-tokyo)
 
 ### 株式会社リクルートマーケティングパートナーズ
 
