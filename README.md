@@ -140,6 +140,9 @@
 #### ブログ・記事
 
 * [チームにE2Eテストの文化を広めた話](https://buildersbox.corp-sansan.com/entry/2019/04/01/110000)
+* [mablでテスト自動化してみた 〜導入編〜](https://buildersbox.corp-sansan.com/entry/2020/08/27/110000)
+* [mablでのテスト自動化 ～実践編～](https://buildersbox.corp-sansan.com/entry/2020/09/02/110000)
+* [Visual Regression Testingで安心できるフロントエンド環境を作る](https://buildersbox.corp-sansan.com/entry/2021/03/18/110000)
 
 ### メドピア株式会社
 
