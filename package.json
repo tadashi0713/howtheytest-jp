@@ -1,0 +1,22 @@
+{
+  "name": "howtheytest-jp",
+  "version": "1.0.0",
+  "description": "![banner](https://github.com/tadashi0713/howtheytest-jp/blob/master/banner.png?raw=true)",
+  "main": "index.js",
+  "scripts": {
+    "lint": "markdownlint README.md --config .markdownlint.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tadashi0713/howtheytest-jp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tadashi0713/howtheytest-jp/issues"
+  },
+  "homepage": "https://github.com/tadashi0713/howtheytest-jp#readme",
+  "devDependencies": {
+    "markdownlint-cli": "^0.28.1"
+  }
+}
