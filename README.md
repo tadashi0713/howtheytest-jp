@@ -34,6 +34,20 @@
 * [Docker × Android エミュレータで、自動テスト(Appium)を並列化・爆速にする環境を作ったお話](https://tech.mercari.com/entry/2018/12/10/060000)
 * [Appiumの環境構築を劇的に効率化した話](https://tech.mercari.com/entry/2018/12/07/074346)
 * [メルカリiOSのUIテスト自動化をまるっとご紹介します！](https://tech.mercari.com/entry/2018/08/07/123000)
+* [マイクロサービスのQA・セキュリティ自動化テスト社内ツール「Testdeck」をOSS化しました！](https://engineering.mercari.com/blog/entry/20200930-testdeck/)
+
+</details>
+
+<details>
+  <summary>株式会社メルペイ</summary>
+
+### ブログ・記事
+
+* [メルペイiOSでのAppium活用事例](https://engineering.mercari.com/blog/entry/20210923-32355a8c7b/)
+* [なぜメルペイQAはDevOpsに取り組むのか？](https://engineering.mercari.com/blog/entry/20201217-94588a41b9/)
+* [Cypress + TestRail による Frontend E2E テストの効率化について](https://engineering.mercari.com/blog/entry/20201207-cypress-testrail-frontend-e2e-automation/)
+* [Frontend E2Eテストの安定化の取り組み](https://engineering.mercari.com/blog/entry/20210914-fb8ff85b9a/)
+* [メルペイiOSチームのスナップショットテストを効率化した話](https://engineering.mercari.com/blog/entry/20201220-ios-snapshot-testing/)
 
 </details>
 
