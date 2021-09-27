@@ -330,6 +330,14 @@
 
 * [markdownlint](https://github.com/DavidAnson/markdownlint) を Lint として使っています、ルールは [こちら](https://github.com/tadashi0713/howtheytest-jp/blob/master/.markdownlint.json)
 
+## コントリビューター
+
+<a href="https://github.com/tadashi0713/howtheytest-jp/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tadashi0713/howtheytest-jp" />
+</a>
+
+Made with [contributors-img](https://contrib.rocks).
+
 ## クレジット
 
 * [howtheytest](https://github.com/abhivaikar/howtheytest) を参考にしました。
