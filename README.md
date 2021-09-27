@@ -290,6 +290,18 @@
 
 </details>
 
+<details>
+  <summary>株式会社Kyash</summary>
+
+### ブログ・記事
+
+* [iOSDC 2021 LTで話した『Kyash iOSアプリのQAの歴史』のスライド補足](https://konifar.hatenablog.com/entry/2021/09/24/174144)
+* [KyashのAPIのテストにおけるPostmanの運用方針](https://blog.kyash.co/entry/2021/09/03/095714)
+* [Kyash QAチームの改善の取り組みについて](https://blog.kyash.co/entry/2021/08/11/191819)
+* [Kyash Android で UIテストを導入した時の方針](https://konifar.hatenablog.com/entry/2018/08/13/180157)
+
+</details>
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
