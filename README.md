@@ -59,6 +59,8 @@
 * [freeeのQAの目指す姿-1/3](https://developers.freee.co.jp/entry/freee-qa-to-be-1)
 * [freeeのQAの目指す姿-2/3](https://developers.freee.co.jp/entry/freee-qa-to-be-2)
 * [freeeのQAの目指す姿-3/3](https://developers.freee.co.jp/entry/freee-qa-to-be-3)
+* [freeeQAにおける品質指標の改善の話](https://developers.freee.co.jp/entry/quality-metrics)
+* [スピードを上げても品質を落とすな！QAの挑戦](https://developers.freee.co.jp/entry/freee-tech-night-12-qa)
 
 </details>
 
@@ -71,6 +73,16 @@
 * [ゼロから品質組織を立ち上げてきた話](https://www.lifull.blog/entry/2019/12/15/000000)
 * [Visual Testingに最適な画像差分検知ツール「Gazo-san」をOSS化しました](https://www.lifull.blog/entry/2019/12/16/110000)
 * [自動システムテストツール「Bucky」OSS化までの道のり](https://www.lifull.blog/entry/2019/05/21/170131)
+* [新卒エンジニアのテストワークショップではテストを考えられるようになってもらっている](https://www.lifull.blog/entry/2021/08/27/143047)
+* [ソフトウェアプロセス改善手法 SaPID 導入の壁と工夫](https://www.lifull.blog/entry/2021/07/29/102042)
+* [本番障害からテストのヒントを抽出して活用する](https://www.lifull.blog/entry/2021/03/26/100000)
+* [プロジェクトに直接的に関わらないQAのアプローチ](https://www.lifull.blog/entry/2021/01/28/133828)
+* [LIFULLのQAの取り組みについて](https://www.lifull.blog/entry/2020/11/30/170734)
+
+### スライド
+
+* [SaPID を導入するまでとそれから](https://www.slideshare.net/next_developer/sapid-249995479)
+* [LIFULLでは新卒エンジニアに 丸一日のテスト研修を行なっている](https://www.slideshare.net/next_developer/lifull-249995498)
 
 </details>
 
