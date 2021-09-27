@@ -78,6 +78,7 @@
 * [本番障害からテストのヒントを抽出して活用する](https://www.lifull.blog/entry/2021/03/26/100000)
 * [プロジェクトに直接的に関わらないQAのアプローチ](https://www.lifull.blog/entry/2021/01/28/133828)
 * [LIFULLのQAの取り組みについて](https://www.lifull.blog/entry/2020/11/30/170734)
+* [コード品質管理について](https://www.lifull.blog/entry/2021/03/22/131107)
 
 ### スライド
 
@@ -96,6 +97,7 @@
 ### スライド
 
 * [Yahoo! JAPAN トップページ リニューアルとテストについて](https://www.slideshare.net/techblogyahoo/yahoo-japan-yjbonfire)
+* [品質と向き合うための第一歩 #LINEヤフー福岡](https://www.slideshare.net/techblogyahoo/line-245366331)
 
 </details>  
 
@@ -112,6 +114,8 @@
 * [ZOZOSUIT計測テスト、自動化への道（音声認識篇）](https://techblog.zozo.com/entry/auto_measurement_01)
 * [「品質」の基準とは？](https://techblog.zozo.com/entry/quality)
 * [GitHub + CircleCIでAWS Device Farmでのテストを自動化](https://techblog.zozo.com/entry/devicefarm_automation)
+* [KarateによるWeb APIのE2Eテスト実現への取り組み](https://techblog.zozo.com/entry/test-api-with-karate)
+* [Autifyを導入してE2E自動テストを最適化した話](https://techblog.zozo.com/entry/autify-introduction)
 
 </details>
 
