@@ -274,6 +274,7 @@
 * [QAエンジニアのAgile Testing vol.2](https://blog.cybozu.io/entry/2018/10/01/080000)
 * [QAエンジニアのAgile Testing vol.3](https://blog.cybozu.io/entry/2018/12/14/080000)
 * [QAがテスト設計プロセスの見える化に取り組んだ話](https://blog.cybozu.io/entry/2018/08/06/080000)
+* [QA勉強会支援チーム「ミネルヴァ」の紹介（2021年版）](https://blog.cybozu.io/entry/2021/02/19/080000)
 
 </details>
 
@@ -284,6 +285,7 @@
 
 * [制作現場におけるビジュアルリグレッションテストの導入 – 「LINEのお年玉」4年目の挑戦](https://engineering.linecorp.com/ja/blog/visual-regression-otoshidama/)
 * [Test Automation Workshop 2018 Tokyo](https://engineering.linecorp.com/ja/blog/test-automation-workshop-2018-tokyo)
+* [デュアルQAプロセスを紹介します](https://engineering.linecorp.com/ja/blog/dual-qa-process/)
 
 </details>
 
