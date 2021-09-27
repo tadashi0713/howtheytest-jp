@@ -338,6 +338,34 @@
 
 </details>
 
+<details>
+  <summary>株式会社メドレー</summary>
+
+### ブログ・記事
+
+* [UIテストの自動化にMagic Podを導入した話](https://developer.medley.jp/entry/2021/01/15/180126)
+* [開発チームと一体となったQA](https://developer.medley.jp/entry/2021/03/09/175356)
+
+</details>
+
+<details>
+  <summary>エムスリー株式会社</summary>
+
+### ブログ・記事
+
+* [IE の E2E テストを TestCafe で実現する](https://www.m3tech.blog/entry/ie-test-by-testcafe)
+* [QAチームの勉強会でアクティブ・ブック・ダイアログを取り入れてわいわいやってみた話](https://www.m3tech.blog/entry/2019/12/06/000000)
+* [Docpediaでの品質計画とQA活動](https://www.m3tech.blog/entry/2020/03/26/170000)
+* [QA Wolfを採用したE2Eテスト自動化事例の紹介](https://www.m3tech.blog/entry/2020/08/06/170000)
+* [エムスリーのQAチームが目指しているもの](https://www.m3tech.blog/entry/2020/12/02/180000)
+* [デジカル開発チームが品質を保つための2つの取り組み](https://www.m3tech.blog/entry/2021/03/30/142426)
+
+### スライド
+
+* [DevOps組織でQAが加速のために取り組んでみたこと](https://speakerdeck.com/shiromoto/devopszu-zhi-deqagajia-su-falsetameniqu-rizu-ndemitakoto)
+
+</details>
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
