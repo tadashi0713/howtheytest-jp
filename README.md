@@ -276,6 +276,10 @@
 * [QAがテスト設計プロセスの見える化に取り組んだ話](https://blog.cybozu.io/entry/2018/08/06/080000)
 * [QA勉強会支援チーム「ミネルヴァ」の紹介（2021年版）](https://blog.cybozu.io/entry/2021/02/19/080000)
 
+### スライド
+
+* [テスト自動化 / Test automation](https://speakerdeck.com/cybozuinsideout/test-automation-b98fc9a4-3cca-4090-8550-0aaa636368e2)
+
 </details>
 
 <details>
@@ -310,6 +314,16 @@
 * [KyashのAPIのテストにおけるPostmanの運用方針](https://blog.kyash.co/entry/2021/09/03/095714)
 * [Kyash QAチームの改善の取り組みについて](https://blog.kyash.co/entry/2021/08/11/191819)
 * [Kyash Android で UIテストを導入した時の方針](https://konifar.hatenablog.com/entry/2018/08/13/180157)
+
+</details>
+
+<details>
+  <summary>スマートキャンプ株式会社</summary>
+
+### ブログ・記事
+
+* [Go製のREST APIにUnitテストを追加した話](https://tech.smartcamp.co.jp/entry/try-go-unit-test)
+* [mablを導入した話](https://tech.smartcamp.co.jp/entry/introduced-mabl)
 
 </details>
 
