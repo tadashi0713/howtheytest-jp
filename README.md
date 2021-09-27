@@ -171,6 +171,12 @@
 * [ペルソナ５ ザ・ロイヤルの開発中、自動プレイでバグを検出してみた話](https://techblog.sega.jp/entry/2020/09/25/100000)
 * [『龍が如く7』は進化を続け、自動バグ発見どころかほぼ全自動のバグ取りシステムを構築。これぞ無職から勇者に成り上がるデバッグだ！【CEDEC 2020】](https://www.famitsu.com/news/202009/11205564.html)
 
+### スライド
+
+* [「龍が如く7 光と闇の行方」の自動テスト活用事例とテスト自動化チーム（仮）による若手育成の取り組みについて](https://www.slideshare.net/SEGADevTech/7-234572005)
+* [CEDEC2021 Android iOS 実機上での自動テストをより楽に有意義にする為に ～端末管理・イメージ転送・動画記録等の周辺情報のノウハウ共有～](https://www.slideshare.net/SEGADevTech/cedec2021)
+* [「龍が如くスタジオ」のQAエンジニアリング技術を結集した全自動バグ取りシステム](https://www.slideshare.net/SEGADevTech/qa-238218522)
+
 </details>
 
 <details>
@@ -363,6 +369,16 @@
 ### スライド
 
 * [DevOps組織でQAが加速のために取り組んでみたこと](https://speakerdeck.com/shiromoto/devopszu-zhi-deqagajia-su-falsetameniqu-rizu-ndemitakoto)
+
+</details>
+
+<details>
+  <summary>株式会社アンドパッド</summary>
+
+### ブログ・記事
+
+* [Autifyを導入して3ヶ月経ったので振り返ってみる](https://tech.andpad.co.jp/entry/2020/09/18/162614)
+* [Flutterアプリをテストして、カバレッジを見える化する](https://tech.andpad.co.jp/entry/2020/11/17/170000)
 
 </details>
 
