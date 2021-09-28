@@ -84,6 +84,7 @@
 
 * [SaPID を導入するまでとそれから](https://www.slideshare.net/next_developer/sapid-249995479)
 * [LIFULLでは新卒エンジニアに 丸一日のテスト研修を行なっている](https://www.slideshare.net/next_developer/lifull-249995498)
+* [自動システムテストのテストケース見直しの観点とその自動化について](https://www.slideshare.net/RikiyaHikimochi1/stac2020hikimochi)
 
 </details>
 
@@ -214,6 +215,9 @@
 ### スライド
 
 * [Rakuten QA Group Introduction & Best Practices](https://www.slideshare.net/YusukeNakamura/rakutenqanight1-nakamura)
+* [Rakuten QA group and Automation team](https://www.slideshare.net/YusukeNakamura/rakuten-presentation-qanight)
+* [Test automation at Rakuten Travel](https://www.slideshare.net/ClintCayetano/test-automationatrakutentravel)
+* [Automation Testing for Leisure Product](https://www.slideshare.net/SadaakiEmura/20190424-q-ameetupm-publish)
 
 </details>
 
@@ -285,6 +289,11 @@
 ### スライド
 
 * [テスト自動化 / Test automation](https://speakerdeck.com/cybozuinsideout/test-automation-b98fc9a4-3cca-4090-8550-0aaa636368e2)
+* [チームワーク溢れる会社が目指している組織の話](https://speakerdeck.com/rabbit_tail/timuwakuyi-reruhui-she-gamu-zhi-siteiruzu-zhi-falsehua)
+* [多種多様なユーザーがいるサービスのQA](https://www.slideshare.net/asami1015/qabar)
+* [ここからはじめるスクラムQA（増補改訂版）](https://speakerdeck.com/ak1210/getting-started-with-qa-in-scrum-revised)
+* [「開発チーム」とQA /"Development Team" and QA](https://speakerdeck.com/ak1210/development-team-and-qa)
+* [インフラのQA？なにそれ？おいしいの？](https://www.slideshare.net/ssuser7030c8/qa-161768968)
 
 </details>
 
@@ -296,6 +305,13 @@
 * [制作現場におけるビジュアルリグレッションテストの導入 – 「LINEのお年玉」4年目の挑戦](https://engineering.linecorp.com/ja/blog/visual-regression-otoshidama/)
 * [Test Automation Workshop 2018 Tokyo](https://engineering.linecorp.com/ja/blog/test-automation-workshop-2018-tokyo)
 * [デュアルQAプロセスを紹介します](https://engineering.linecorp.com/ja/blog/dual-qa-process/)
+
+### スライド
+
+* [Reduce flaky test cases with Gradle retry plugin and Allure report](https://speakerdeck.com/line_developers/reduce-flaky-test-cases-with-gradle-retry-plugin-and-allure-report)
+* [Everything from Scratch: A journey as Software Engineer in Test to improve "Testing"](https://speakerdeck.com/line_developers/everything-from-scratch-a-journey-as-software-engineer-in-test-to-improve-testing)
+* [出前館プロジェクトにおけるLINE QAチームの取り組み](https://speakerdeck.com/line_developers/efforts-of-qa-team-in-demaecan)
+* [LINEリサーチ/LINEアンケートにおける 上流工程でのQA実践とその先にあったもの](https://speakerdeck.com/line_developers/line-research-and-line-survey-qa-practice-in-the-upstream-process)
 
 </details>
 
@@ -382,11 +398,31 @@
 
 </details>
 
+<details>
+  <summary>Retty株式会社</summary>
+
+### スライド
+
+* [顧客価値を安定的に届けるために―Rettyにおけるアジャイル開発とQA改善の取り組み―](https://speakerdeck.com/tunepolo/deliver-customer-value-regularly-at-retty)
+
+</details>
+
+<details>
+  <summary>株式会社ラクス</summary>
+
+### スライド
+
+* [13年続くレガシーサービスを安全にリリースし続けるためのテスト戦略](https://speakerdeck.com/kyoshimoto/rakus-meetup-osaka-vol8-2020-08-05)
+* [新規プロダクトの開発速度と品質の両立を支える自動テスト](https://speakerdeck.com/noriharu3/automation-testing-supports-both-development-speed-and-quality-of-new-product)
+* [テスト稼働の削減とフロントエンドの品質担保を行うE2Eテスト](https://speakerdeck.com/yugkwmt/tesutojia-dong-falsexue-jian-tohurontoendofalsepin-zhi-dan-bao-woxing-ue2etesuto)
+
+</details>
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
-* 日本語のリソースを想定しています。英語のリソースは [本家の howtheytest](https://github.com/abhivaikar/howtheytest) にコントリビューションすることをおすすめします。
-* This repository mainly focus on resources by Japanese language. Please consider contributing to [howtheytest](https://github.com/abhivaikar/howtheytest) if you have English resources.
+* 日本語 / 日本企業 のリソースを想定しています。英語 / 海外のリソースは [本家の howtheytest](https://github.com/abhivaikar/howtheytest) にコントリビューションすることをおすすめします。
+* This repository mainly focus on resources by Japanese language / Japanese companies. Please consider contributing to [howtheytest](https://github.com/abhivaikar/howtheytest) if you have English resources.
 * 基本的には `README.md` のマークダウンファイルを編集します。下記のルールを参考にしてください。
 
 ```markdown
