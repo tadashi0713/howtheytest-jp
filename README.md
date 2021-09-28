@@ -49,6 +49,14 @@
 * [Frontend E2Eテストの安定化の取り組み](https://engineering.mercari.com/blog/entry/20210914-fb8ff85b9a/)
 * [メルペイiOSチームのスナップショットテストを効率化した話](https://engineering.mercari.com/blog/entry/20201220-ios-snapshot-testing/)
 
+### スライド
+
+* [メルペイでのリグレッションテスト自動化推進のこれまでとこれから](https://speakerdeck.com/tamaki/merupeidefalseriguretusiyontesutozi-dong-hua-tui-jin-falsekoremadetokorekara)
+* [Merpay Frontend - Building a Testing Culture](https://speakerdeck.com/wilsonplau/merpay-frontend-building-a-testing-culture)
+* [What we do for quality as merpay frontend](https://speakerdeck.com/naughtldy/what-we-do-for-quality-as-merpay-frontend)
+* [e2eテストフレームワーク](https://www.slideshare.net/ssuser5591a9/merpay-tech-talk-e2e-testing-framework)
+* [Scenario Testing to Improve Product Quality at Merpay](https://docs.google.com/presentation/d/1526Md64pmPdQIEamz5IBWvVZd7X70grz4XZ5VG4JFx4)
+
 </details>
 
 <details>
@@ -118,6 +126,10 @@
 * [KarateによるWeb APIのE2Eテスト実現への取り組み](https://techblog.zozo.com/entry/test-api-with-karate)
 * [Autifyを導入してE2E自動テストを最適化した話](https://techblog.zozo.com/entry/autify-introduction)
 
+### スライド
+
+* [「こだわらない」から始めるテストの話 — ZOZOTOWN iOSのテスト事例](https://speakerdeck.com/ring/the-story-of-the-test-starting-from-dont-care)
+
 </details>
 
 <details>
@@ -160,6 +172,10 @@
 
 * [MOV Android版に対する「コード改善＋テスト導入」の取り組みの紹介](https://swet.dena.com/entry/2019/10/29/180000)
 * [タクシーアプリ「GO」Android版へ自動テストを導入するまでの道のり](https://swet.dena.com/entry/2021/06/08/182000)
+
+### スライド
+
+* [Pococha UIテストの運用をみすえた対応についての話](https://speakerdeck.com/tarappo/pococha-uitesutofalseyun-yong-womisuetadui-ying-nituitefalsehua)
 
 </details>
 
@@ -337,6 +353,10 @@
 * [Kyash QAチームの改善の取り組みについて](https://blog.kyash.co/entry/2021/08/11/191819)
 * [Kyash Android で UIテストを導入した時の方針](https://konifar.hatenablog.com/entry/2018/08/13/180157)
 
+### スライド
+
+* [iOS版KyashにMock Frameworkを導入した話 / Introducing Kyash iOS Test Cases 2020](https://speakerdeck.com/tamadon/introducing-kyash-ios-test-cases-2020)
+
 </details>
 
 <details>
@@ -396,6 +416,10 @@
 * [Autifyを導入して3ヶ月経ったので振り返ってみる](https://tech.andpad.co.jp/entry/2020/09/18/162614)
 * [Flutterアプリをテストして、カバレッジを見える化する](https://tech.andpad.co.jp/entry/2020/11/17/170000)
 
+### スライド
+
+* [Firestoreエミュレータを使ってユニットテストを書いた話](https://speakerdeck.com/tmyk110/firestoreemiyuretawoshi-tuteyunitutotesutowoshu-itahua)
+
 </details>
 
 <details>
@@ -415,6 +439,19 @@
 * [13年続くレガシーサービスを安全にリリースし続けるためのテスト戦略](https://speakerdeck.com/kyoshimoto/rakus-meetup-osaka-vol8-2020-08-05)
 * [新規プロダクトの開発速度と品質の両立を支える自動テスト](https://speakerdeck.com/noriharu3/automation-testing-supports-both-development-speed-and-quality-of-new-product)
 * [テスト稼働の削減とフロントエンドの品質担保を行うE2Eテスト](https://speakerdeck.com/yugkwmt/tesutojia-dong-falsexue-jian-tohurontoendofalsepin-zhi-dan-bao-woxing-ue2etesuto)
+
+</details>
+
+<details>
+  <summary>株式会社アペルザ</summary>
+
+### ブログ・記事
+
+* [「QAをチームではなく、活動に」アペルザのQAへの取り組み](https://www.wantedly.com/companies/aperza/post_articles/298837)
+
+### スライド
+
+* [アペルザの品質を支えるE2Eグレートジャーニー](https://speakerdeck.com/kunihikosasaki/aperuzafalsepin-zhi-wozhi-erue2eguretoziyani)
 
 </details>
 
