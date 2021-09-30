@@ -455,6 +455,17 @@
 
 </details>
 
+<details>
+  <summary>Classi株式会社</summary>
+
+### ブログ・記事
+
+* [QAチームが取り組む「品質の見える化」への挑戦](https://tech.classi.jp/entry/2021/09/15/093000)
+* [Classi QAの品質向上への道](https://tech.classi.jp/entry/2021/09/14/090000)
+* [Angular+Storybookで画像回帰テストを小さくはじめる](https://tech.classi.jp/entry/2021/09/09/113000)
+
+</details>
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
