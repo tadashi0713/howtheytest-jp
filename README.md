@@ -479,6 +479,17 @@
 
 </details>
 
+<details>
+  <summary>株式会社スタディスト</summary>
+
+### ブログ・記事
+
+* [Teachme Bizの開発における QA の歴史・理想像・課題](https://medium.com/studist-dev/teachme-biz%E3%81%AE%E9%96%8B%E7%99%BA%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B-qa-%E3%81%AE%E6%AD%B4%E5%8F%B2-%E7%90%86%E6%83%B3%E5%83%8F-%E8%AA%B2%E9%A1%8C-8d3cf1895344)
+* [モダンなQA組織を目指して](https://medium.com/studist-dev/aiming-for-a-modern-qa-1038aa8667b1)
+* [「信頼」がQAの価値を生む](https://medium.com/studist-dev/trust-creates-value-for-qa-82c8565ef5c2)
+
+</details>
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
