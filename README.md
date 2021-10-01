@@ -466,6 +466,19 @@
 
 </details>
 
+<details>
+  <summary>株式会社ロコガイド</summary>
+
+### ブログ・記事
+
+* [QAチーム立ち上げ記録第1回](https://techblog.locoguide.co.jp/entry/2021/03/09/124451)
+* [Magic Podによる自動テスト 〜QAチーム記録第2回〜](https://techblog.locoguide.co.jp/entry/2021/09/22/133138)
+* [ロコガイドにおける分散テスト実行環境](https://techblog.locoguide.co.jp/entry/2020/12/03/120000)
+* [Instrumentationテスト 最初の小さな一歩](https://techblog.locoguide.co.jp/entry/2020/04/14/143333)
+* [Androidアプリチームにテストコードを書く習慣ができるまで](https://techblog.locoguide.co.jp/entry/2020/09/18/121716)
+
+</details>
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
