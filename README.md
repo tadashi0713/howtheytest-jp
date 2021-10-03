@@ -503,6 +503,20 @@
 
 </details>
 
+<details>
+  <summary>PayPay株式会社</summary>
+
+### ブログ・記事
+
+* [自動化の進め方](https://blog.paypay.ne.jp/getting-started-with-automation/)
+* [自動化テストのFlakiness（不安定性）をなくすには？](https://blog.paypay.ne.jp/reducing-flakiness-automated-testing/)
+* [テストフレームワークを自動化するCIとは？](https://blog.paypay.ne.jp/ci-for-automation-testing-framework/)
+* [自動化における様々なレベルとは？：APIテストについて](https://blog.paypay.ne.jp/different-levels-of-automation/)
+* [自動化における様々なレベルとは？：ウェブテストについて](https://blog.paypay.ne.jp/what-are-the-different-levels-of-web-automation-testing/)
+* [自動化における様々なレベルとは？：モバイルテストについて](https://blog.paypay.ne.jp/mobile-automation-testing/)
+
+</details>
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
