@@ -212,6 +212,7 @@
 
 * [【CEDEC 2019 フォローアップ】Shadowverse流開発手法 ～QAコスト削減と堅牢性強化を実現するプランナーによるテスト駆動開発～](https://tech.cygames.co.jp/archives/3304/)
 * [【JaSST’17 Tokyo フォローアップ】受け入れテストの自動化](https://tech.cygames.co.jp/archives/2983/)
+* [【PHPカンファレンス2020 フォローアップ】長期運用を目指す『Shadowverse』におけるリファクタ事例の紹介 〜テストの導入とメンバーへの普及法〜](https://tech.cygames.co.jp/archives/3465/)
 
 </details>
 
@@ -487,6 +488,18 @@
 * [Teachme Bizの開発における QA の歴史・理想像・課題](https://medium.com/studist-dev/teachme-biz%E3%81%AE%E9%96%8B%E7%99%BA%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B-qa-%E3%81%AE%E6%AD%B4%E5%8F%B2-%E7%90%86%E6%83%B3%E5%83%8F-%E8%AA%B2%E9%A1%8C-8d3cf1895344)
 * [モダンなQA組織を目指して](https://medium.com/studist-dev/aiming-for-a-modern-qa-1038aa8667b1)
 * [「信頼」がQAの価値を生む](https://medium.com/studist-dev/trust-creates-value-for-qa-82c8565ef5c2)
+
+</details>
+
+<details>
+  <summary>ヘイ株式会社</summary>
+
+### ブログ・記事
+
+* [STORES ECに自動テストツールのMagic Podを導入した話](https://tech.hey.jp/entry/2021/10/01/170000)
+* [JaSST’21 Tokyo 「急成長プロダクトで私が体験した、QAチーム立ち上げの裏バナシ」前編](https://tech.hey.jp/entry/2021/09/16/171343)
+* [JaSST’21 Tokyo 「急成長プロダクトで私が体験した、QAチーム立ち上げの裏バナシ」後編](https://tech.hey.jp/entry/2021/10/01/122419)
+* [新人QAが語るSTORES 決済の品質を支える「QA」は何をしているのか](https://tech.hey.jp/entry/2021/08/13/122138)
 
 </details>
 
