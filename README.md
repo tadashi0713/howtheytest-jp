@@ -517,6 +517,18 @@
 
 </details>
 
+<details>
+  <summary>株式会社ウエディングパーク</summary>
+
+### ブログ・記事
+
+* [QAチームの自動テスト推進　〜自動テストのツール選定編〜](https://engineers.weddingpark.co.jp/qa-test-automation-1/)
+* [QAチームの自動テスト推進　〜自動テストの開発編〜](https://engineers.weddingpark.co.jp/qa-test-automation-2/)
+* [チームメンバー全員で実施している回帰テストの紹介](https://engineers.weddingpark.co.jp/qa-regression-test/)
+* [QAチームの自動テスト推進　〜自動テストの運用編〜](https://engineers.weddingpark.co.jp/qa-test-automation-3/)
+
+</details>
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
