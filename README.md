@@ -529,6 +529,16 @@
 
 </details>
 
+<details>
+  <summary>スタディプラス株式会社</summary>
+
+### ブログ・記事
+
+* [ReactのSPAでUIへのテストを真面目に取り組んでいく話](https://tech.studyplus.co.jp/entry/2020/10/05/090000)
+* [LambdaTestでスモークテストをはじめました](https://tech.studyplus.co.jp/entry/2020/12/14/100000)
+
+</details>
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
