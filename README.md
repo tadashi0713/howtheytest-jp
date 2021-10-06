@@ -539,6 +539,18 @@
 
 </details>
 
+<details>
+  <summary>株式会社トレタ</summary>
+
+### ブログ・記事
+
+* [超短期プロジェクトでのQAエンジニアの立ち回りを振り返ってみた](https://tech.toreta.in/entry/2020/12/21/103434)
+* [2020年のトレタQAチーム - 今年変わったこと、これからのこと -](https://tech.toreta.in/entry/2020/12/18/133750)
+* [プロジェクトフィットなテスト計画をたてよう](https://tech.toreta.in/entry/2020/12/17/100000)
+* [Gauge＋Capybara＋Rspecではじめる自動テスト](https://tech.toreta.in/entry/2020/12/15/110722)
+
+</details>
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
