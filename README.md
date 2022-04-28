@@ -496,6 +496,7 @@
 
 ### ブログ・記事
 
+* [mablを活用した STORES 予約 のE2Eテスト戦略](https://tech.hey.jp/entry/2022/04/25/143951)
 * [STORES ECに自動テストツールのMagic Podを導入した話](https://tech.hey.jp/entry/2021/10/01/170000)
 * [JaSST’21 Tokyo 「急成長プロダクトで私が体験した、QAチーム立ち上げの裏バナシ」前編](https://tech.hey.jp/entry/2021/09/16/171343)
 * [JaSST’21 Tokyo 「急成長プロダクトで私が体験した、QAチーム立ち上げの裏バナシ」後編](https://tech.hey.jp/entry/2021/10/01/122419)
