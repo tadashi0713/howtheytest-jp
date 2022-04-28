@@ -580,6 +580,15 @@
 
 </details>
 
+<details>
+  <summary>株式会社MonotaRO</summary>
+
+### ブログ・記事
+
+* [Software Design連載 2021年9月号 「テストが無い」からの脱却](https://tech-blog.monotaro.com/entry/2021/09/28/090000)
+
+</details>
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
