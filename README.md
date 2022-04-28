@@ -162,6 +162,7 @@
 ### ブログ・記事
 
 * [GitHub Actionsのワークフローを利用してクロスブラウザのE2Eテストを自動化する](https://moneyforward.com/engineers_blog/2019/11/06/e2e-test-automation/)
+* [副業QAエンジニアは週3時間でいかに価値を出すか〜組織横断のヒッティング・パートナーをめざして〜](https://moneyforward.com/engineers_blog/2022/03/01/cross-organization-hitting-partner/)
 
 </details>
 
