@@ -437,6 +437,7 @@
 
 ### スライド
 
+* [勤怠管理サービスでの継続的テストの取り組み](https://speakerdeck.com/karabish/continuous-testing-in-attendance-service)
 * [13年続くレガシーサービスを安全にリリースし続けるためのテスト戦略](https://speakerdeck.com/kyoshimoto/rakus-meetup-osaka-vol8-2020-08-05)
 * [新規プロダクトの開発速度と品質の両立を支える自動テスト](https://speakerdeck.com/noriharu3/automation-testing-supports-both-development-speed-and-quality-of-new-product)
 * [テスト稼働の削減とフロントエンドの品質担保を行うE2Eテスト](https://speakerdeck.com/yugkwmt/tesutojia-dong-falsexue-jian-tohurontoendofalsepin-zhi-dan-bao-woxing-ue2etesuto)
