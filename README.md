@@ -562,6 +562,15 @@
 
 </details>
 
+<details>
+  <summary>株式会社Kaizen Platform</summary>
+
+### ブログ・記事
+
+* [E2EテストにAutifyを使っている理由、そしてE2Eテストで大事にしていること](https://developer.kaizenplatform.com/entry/ban/2021-04-25/)
+
+</details>
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
