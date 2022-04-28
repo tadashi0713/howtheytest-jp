@@ -162,6 +162,7 @@
 ### ブログ・記事
 
 * [GitHub Actionsのワークフローを利用してクロスブラウザのE2Eテストを自動化する](https://moneyforward.com/engineers_blog/2019/11/06/e2e-test-automation/)
+* [副業QAエンジニアは週3時間でいかに価値を出すか〜組織横断のヒッティング・パートナーをめざして〜](https://moneyforward.com/engineers_blog/2022/03/01/cross-organization-hitting-partner/)
 
 </details>
 
@@ -437,6 +438,7 @@
 
 ### スライド
 
+* [勤怠管理サービスでの継続的テストの取り組み](https://speakerdeck.com/karabish/continuous-testing-in-attendance-service)
 * [13年続くレガシーサービスを安全にリリースし続けるためのテスト戦略](https://speakerdeck.com/kyoshimoto/rakus-meetup-osaka-vol8-2020-08-05)
 * [新規プロダクトの開発速度と品質の両立を支える自動テスト](https://speakerdeck.com/noriharu3/automation-testing-supports-both-development-speed-and-quality-of-new-product)
 * [テスト稼働の削減とフロントエンドの品質担保を行うE2Eテスト](https://speakerdeck.com/yugkwmt/tesutojia-dong-falsexue-jian-tohurontoendofalsepin-zhi-dan-bao-woxing-ue2etesuto)
@@ -496,6 +498,7 @@
 
 ### ブログ・記事
 
+* [mablを活用した STORES 予約 のE2Eテスト戦略](https://tech.hey.jp/entry/2022/04/25/143951)
 * [STORES ECに自動テストツールのMagic Podを導入した話](https://tech.hey.jp/entry/2021/10/01/170000)
 * [JaSST’21 Tokyo 「急成長プロダクトで私が体験した、QAチーム立ち上げの裏バナシ」前編](https://tech.hey.jp/entry/2021/09/16/171343)
 * [JaSST’21 Tokyo 「急成長プロダクトで私が体験した、QAチーム立ち上げの裏バナシ」後編](https://tech.hey.jp/entry/2021/10/01/122419)
@@ -548,6 +551,42 @@
 * [2020年のトレタQAチーム - 今年変わったこと、これからのこと -](https://tech.toreta.in/entry/2020/12/18/133750)
 * [プロジェクトフィットなテスト計画をたてよう](https://tech.toreta.in/entry/2020/12/17/100000)
 * [Gauge＋Capybara＋Rspecではじめる自動テスト](https://tech.toreta.in/entry/2020/12/15/110722)
+
+</details>
+
+<details>
+  <summary>atama plus株式会社</summary>
+
+### スライド
+
+* [atama plusの開発チームはどのように「不確実性」と向き合ってきたか](https://speakerdeck.com/atamaplus/devopsdays-tokyo-2022)
+
+</details>
+
+<details>
+  <summary>株式会社Kaizen Platform</summary>
+
+### ブログ・記事
+
+* [E2EテストにAutifyを使っている理由、そしてE2Eテストで大事にしていること](https://developer.kaizenplatform.com/entry/ban/2021-04-25/)
+
+</details>
+
+<details>
+  <summary>株式会社LayerX</summary>
+
+### ブログ・記事
+
+* [LayerXのQAへの取り組み〜アイスクリームの誘惑に負けるな〜](https://tech.layerx.co.jp/entry/how-to-qa-in-early-stage)
+
+</details>
+
+<details>
+  <summary>株式会社MonotaRO</summary>
+
+### ブログ・記事
+
+* [Software Design連載 2021年9月号 「テストが無い」からの脱却](https://tech-blog.monotaro.com/entry/2021/09/28/090000)
 
 </details>
 
