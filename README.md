@@ -571,6 +571,15 @@
 
 </details>
 
+<details>
+  <summary>株式会社LayerX</summary>
+
+### ブログ・記事
+
+* [LayerXのQAへの取り組み〜アイスクリームの誘惑に負けるな〜](https://tech.layerx.co.jp/entry/how-to-qa-in-early-stage)
+
+</details>
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
