@@ -551,6 +551,15 @@
 
 </details>
 
+<details>
+  <summary>atama plus株式会社</summary>
+
+### スライド
+
+* [atama plusの開発チームはどのように「不確実性」と向き合ってきたか](https://speakerdeck.com/atamaplus/devopsdays-tokyo-2022)
+
+</details>
+
 ## コントリビューション
 
 * [こちら](https://github.com/tadashi0713/howtheytest-jp)のレポジトリにコントリビューションしてください。
