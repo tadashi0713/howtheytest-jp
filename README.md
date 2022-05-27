@@ -164,6 +164,10 @@
 * [GitHub Actionsのワークフローを利用してクロスブラウザのE2Eテストを自動化する](https://moneyforward.com/engineers_blog/2019/11/06/e2e-test-automation/)
 * [副業QAエンジニアは週3時間でいかに価値を出すか〜組織横断のヒッティング・パートナーをめざして〜](https://moneyforward.com/engineers_blog/2022/03/01/cross-organization-hitting-partner/)
 
+### スライド
+
+* [0->1 フェーズで E2E 自動テストを導入した私たちの、これまでとこれから](https://speakerdeck.com/yoyakoba/0-1-huezude-e2e-zi-dong-tesutowodao-ru-sitasi-tatifalse-koremadetokorekara)
+
 </details>
 
 <details>
@@ -430,6 +434,7 @@
 ### スライド
 
 * [顧客価値を安定的に届けるために―Rettyにおけるアジャイル開発とQA改善の取り組み―](https://speakerdeck.com/tunepolo/deliver-customer-value-regularly-at-retty)
+* [3年がかりのQA組織立ち上げ](https://speakerdeck.com/tunepolo/3-years-of-work-to-set-up-a-qa-organization)
 
 </details>
 
@@ -560,6 +565,7 @@
 ### スライド
 
 * [atama plusの開発チームはどのように「不確実性」と向き合ってきたか](https://speakerdeck.com/atamaplus/devopsdays-tokyo-2022)
+* [デュアルトラックアジャイル × Agile Testingから見えてきたQAのミライ](https://speakerdeck.com/atamaplus/the-future-of-qa)
 
 </details>
 
